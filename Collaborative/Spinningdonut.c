@@ -1,3 +1,4 @@
+// NOTE - This file is not our creation, credit to the creator at a1k0n.net
 const float theta_spacing = 0.07;
 const float phi_spacing   = 0.02;
 
